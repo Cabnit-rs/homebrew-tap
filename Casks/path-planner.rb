@@ -1,6 +1,6 @@
 cask "path-planner" do
   version "2025.2.2"
-  sha256 "a4e1a30d074e724ba24e9e2674a72bc4050f00161fb7dc23295a2c189ecda5bb"
+  sha256 "8a72de172f053a4f57c8efad0cefd02587b1e149ed5f9b3741731efb3cf98503"
 
   url "https://github.com/mjansen4857/pathplanner/releases/tag/v2025.2.2/v#{version}/PathPlanner-macOS-v#{version}.dmg"
      
